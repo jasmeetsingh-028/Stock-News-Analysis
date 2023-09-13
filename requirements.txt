@@ -3,3 +3,4 @@ transformers[sentencepiece]
 beautifulsoup4==4.12.2
 requests==2.31.0
 streamlit
+torch==2.0.1
