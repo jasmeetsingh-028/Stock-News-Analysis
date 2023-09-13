@@ -1,0 +1,6 @@
+1. Scrape news data using beautiful soup from google news.
+    -Google news to get a set of links
+    -2nd scrape to get news data
+
+2. Auto - Summarize News using fine-tuned pegasus model
+3. calculate sentiment using transformers pipeline.
