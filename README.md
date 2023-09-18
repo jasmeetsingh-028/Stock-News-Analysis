@@ -1,6 +1,8 @@
 # Stock News Analyzer Streamlit Application
 
-![GitHub](https://img.shields.io/github/license/yourusername/stock-news-analyzer)
+[![GitHub License](https://img.shields.io/github/license/jasmeetsingh-028/Stock-News-Analysis)](https://github.com/jasmeetsingh-028/Stock-News-Analysis/blob/main/LICENSE)
+You can access the live application here: [Stock News Analyzer](https://jasmeetsingh-028-stock-news-analy-streamplit-application-yxxzvw.streamlit.app/)
+
 
 Welcome to the Stock News Analyzer Streamlit Application! This application allows you to gather news articles about specific stock tickers from Yahoo Finance, perform summarization using financial-focused Pegasus models, and analyze sentiment using a pre-trained sentiment analysis pipeline.
 
