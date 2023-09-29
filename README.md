@@ -15,4 +15,4 @@ Welcome to the Stock News Analyzer Streamlit Application! This application allow
 
 ## Application Link
 
-You can access the live application here: [Stock News Analyzer](https://jasmeetsingh-028-stock-news-analy-streamplit-application-yxxzvw.streamlit.app/)
+You can access the live application here: [Stock News Analyzer Streamlit application](https://jasmeetsingh-028-stock-news-analy-streamplit-application-yxxzvw.streamlit.app/)
